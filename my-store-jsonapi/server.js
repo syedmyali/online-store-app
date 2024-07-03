@@ -1,8 +1,4 @@
-//npm init -y
-// npm install json-server@0.17.4
-// npx json-server --version 0.17.4
-// npx json-server --watch db.json --port 4000
-// node server.js
+
 
 const jsonServer = require("json-server");
 const multer = require("multer");
